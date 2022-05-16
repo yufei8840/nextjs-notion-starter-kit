@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7e08cd213d9e4ce6804d0c10290f4efa',
+  rootNotionPageId: 'Blog-7e08cd213d9e4ce6804d0c10290f4efa',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '个人迭代',
-  domain: 'https://agate-lipstick-279.notion.site/7e08cd213d9e4ce6804d0c10290f4efa',
+  domain: 'https://agate-lipstick-279.notion.site/Blog-7e08cd213d9e4ce6804d0c10290f4efa',
   author: 'edr',
 
   // open graph metadata (optional)
