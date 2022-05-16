@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'uneeedr',
-  github: '',
+  github: 'yufei8840',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
